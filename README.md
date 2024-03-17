@@ -7,7 +7,7 @@ The experiment involves maintaining temperature while varying pressure to measur
 At this point, it is essential to fit the adsorption amount experimental data into a mathematical model to obtain it explicitly in Closed Form.
 This is crucial because later it can be used to determine the most important adsorption enthalpy.
 In the process of optimizing fitting with a mathematical model and extracting the optimal parameters, a very repetitive task is involved.
-It was determined that by applying optimization techniques learned in major courses, such as using Excel and manual labor to repeatedly search for parameters, it could be automated.
+The repetitive task of manually working with Excel and using optimization techniques to find parameters repeatedly accompanied this cumbersome process. I thought that such tedious work could be automated by "applying optimization techniques learned in major courses to coding."
 Developed a program that fits well with the CO isotherm Toth Model and provided it as a service to research colleagues by further developing it into a web-based application.
 
 # Program Introduction
