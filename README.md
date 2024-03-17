@@ -1,3 +1,6 @@
+### Video of All Processes
+https://github.com/dydtkddl/IsothemDataAnalysis/assets/114085307/dc17bd02-b457-4e79-a004-892c75510f60
+
 * You can directly test with the example data attached.
 # Program Definition
 CO Isotherm, Fitting Analyzer
@@ -20,5 +23,3 @@ Developed a program that fits well with the CO isotherm Toth Model and provided 
 ### Visualization of Optimization Analysis Results and Return of Optimal Parameters
 ![image](https://github.com/dydtkddl/IsothemDataAnalysis/assets/114085307/960f33af-0450-40a6-8764-a2c47c8b6b02)
 
-### Video of All Processes
-https://github.com/dydtkddl/IsothemDataAnalysis/assets/114085307/dc17bd02-b457-4e79-a004-892c75510f60
